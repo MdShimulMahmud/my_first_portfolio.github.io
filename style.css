@@ -1,0 +1,74 @@
+body{
+    /* background-image: url(/Download/Nature/isabell-wallstrom-tWzhqM-Ijgs-unsplash.jpg);  */
+    background-repeat: no-repeat;
+    font-family: 'Pacifico', cursive;
+}
+.container-fluid{
+    background: url(/Download/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
+    background-size: 100% 100%;
+    background-attachment: scroll;
+
+    background-repeat: no-repeat;
+
+}
+/* .banner-container{
+    position: sticky;
+    z-index: 2;
+    top: 0;
+} */
+.navbar-container{
+    top: 0;
+    position: sticky;
+    z-index: 2;
+}
+
+.about-container{
+    background-color: lightseagreen;
+
+}
+.education-container{
+   
+    background-color: #010101;
+}
+.colour{
+    color: blue;
+}
+.circle{
+    background-color: gray;
+    height: 150px; width: 150px;
+    border-radius:50%;
+}
+.portfolio-container{
+    background-color:gold;
+}
+.contact-container{
+    background-color: #70798A;
+    
+}
+.circle1{
+    height: 60px; width: 60px;
+    border-radius: 50%;
+    background-color: lawngreen;
+    font-size: 40px;
+    display: inline-block;
+    text-align: center;
+}
+.circle1:hover{
+    background-color:black;
+    
+}
+.inner-form{
+    background-color: #010101;
+    border: gold solid 2px;
+    height: 60px; width: 500px;
+    
+    
+}
+.sample{
+    background-color: lightseagreen;
+    text-decoration: white;
+}
+.inner-form:hover{
+    background-color:white;
+}
+
