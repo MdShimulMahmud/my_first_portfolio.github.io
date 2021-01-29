@@ -1,0 +1,85 @@
+body{
+    /* background-image: url(/Download/Nature/isabell-wallstrom-tWzhqM-Ijgs-unsplash.jpg);  */
+    background-repeat: no-repeat;
+    font-family: 'Courier Prime', monospace;
+}
+.container-fluid{
+    background: url(/photo/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
+    background-size: 100% 100%;
+    background-attachment: scroll;
+
+    background-repeat: no-repeat;
+
+}
+/* .banner-container{
+    position: sticky;
+    z-index: 2;
+    top: 0;
+} */
+.navbar-container{
+    top: 0;
+    position: sticky;
+    z-index: 2;
+}
+
+.about-container{
+    background-color: lightseagreen;
+
+}
+.education-container{
+   
+    background-color: lightseagreen;
+}
+.colour{
+    color: blue;
+}
+.circle{
+    background-color: gray;
+    height: 150px; width: 150px;
+    border-radius:50%;
+}
+.portfolio-container{
+    background-color:lightseagreen;
+}
+.contact-container{
+    background-color: #70798A;
+    
+}
+.circle1{
+    height: 60px; width: 60px;
+    border-radius: 50%;
+    background-color: limegreen;
+    font-size: 40px;
+    display: inline-block;
+    text-align: center;
+}
+.circle1:hover{
+    background-color:red;
+    
+}
+.inner-form{
+    background-color: #010101;
+    border: gold solid 2px;
+    height: 60px; width: 500px;
+    
+    
+}
+.sample{
+    background-color: lightseagreen;
+    text-decoration: white;
+}
+.inner-form:hover{
+    background-color:white;
+}
+.progress{
+    width: 100%; height: 100;
+    margin:20px;
+
+}
+#Programming{
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(49, 39, 39);
+
+}
